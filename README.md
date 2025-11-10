@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Yiğit</h1>
-<h3>Backend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
